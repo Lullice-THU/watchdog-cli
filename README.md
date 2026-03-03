@@ -3,8 +3,13 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-alpha-red)
+[![Stars](https://img.shields.io/github/stars/Lullice-THU/watchdog-cli?style=social)](https://github.com/Lullice-THU/watchdog-cli/stargazers)
 
 一个轻量级的API监控工具，支持定时检测和飞书告警。
+
+## ⭐ 如果对你有帮助
+
+请给我们点个 Star ⭐
 
 ## 特性
 
